@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bai1_1.cpp" />
+    <ClCompile Include="bai1_2.cpp" />
+    <ClCompile Include="Bai1_3.cpp" />
+    <ClCompile Include="bai1_4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

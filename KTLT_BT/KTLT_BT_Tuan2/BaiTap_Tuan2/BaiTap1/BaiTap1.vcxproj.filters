@@ -18,5 +18,14 @@
     <ClCompile Include="bai1_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bai1_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai1_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai1_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

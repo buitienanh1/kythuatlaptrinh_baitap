@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\bt\\kythuatlaptrinh_baitap-main\\kythuatlaptrinh_baitap-main\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\",
+  "WorkspaceRootPath": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|D:\\bt\\kythuatlaptrinh_baitap-main\\kythuatlaptrinh_baitap-main\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|solutionrelative:BaiTap1\\bai1_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\Bai1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|solutionrelative:BaiTap1\\Bai1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|solutionrelative:BaiTap1\\bai1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79172661-29FB-4D70-80CC-FACAFCD7D138}|BaiTap1\\BaiTap1.vcxproj|solutionrelative:BaiTap1\\bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bai1_4.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_4.cpp",
+              "RelativeDocumentMoniker": "BaiTap1\\bai1_4.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_4.cpp",
+              "RelativeToolTip": "BaiTap1\\bai1_4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T09:15:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1_3.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\Bai1_3.cpp",
+              "RelativeDocumentMoniker": "BaiTap1\\Bai1_3.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\Bai1_3.cpp",
+              "RelativeToolTip": "BaiTap1\\Bai1_3.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T08:55:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai1_2.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_2.cpp",
+              "RelativeDocumentMoniker": "BaiTap1\\bai1_2.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_2.cpp",
+              "RelativeToolTip": "BaiTap1\\bai1_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T08:44:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "bai1_1.cpp",
-              "DocumentMoniker": "D:\\bt\\kythuatlaptrinh_baitap-main\\kythuatlaptrinh_baitap-main\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp",
               "RelativeDocumentMoniker": "BaiTap1\\bai1_1.cpp",
-              "ToolTip": "D:\\bt\\kythuatlaptrinh_baitap-main\\kythuatlaptrinh_baitap-main\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan2\\BaiTap_Tuan2\\BaiTap1\\bai1_1.cpp",
               "RelativeToolTip": "BaiTap1\\bai1_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-17T07:33:14.659Z",
               "EditorCaption": ""
