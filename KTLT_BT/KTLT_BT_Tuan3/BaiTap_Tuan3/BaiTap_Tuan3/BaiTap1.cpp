@@ -137,50 +137,50 @@ void menu() {
 	printf("\n5.Xuat dong chi chua so chan. ");
 	printf("\n6.Sap xep mang a tang theo tung dong.");
 }
-void main() {
-	menu();
-	int n=0;
-	int m=0;
-	int a[100][100];
-	int luachon;
-	while (1)
-	{
-		printf("\nNhap Lua chon ban muon su dung:");
-		scanf_s("%d", &luachon);
-		switch (luachon)
-		{
-		case 1:
-			printf("\nNhap so dong muon tao:");
-			scanf_s("%d", &n);
-			printf("\nnhap so hang muon tao:");
-			scanf_s("%d", &m);
-			TaoMaTran2Chieu(a, n, m);
-			XuatMaTran2chieu(a, n, m);
-			break;
-		case 2:
-			printf("\nTong cua tung dong trong mang la: ");
-			xuatTongTungDong(a, n, m);
-			break;
-		case 3:
-			printf("\nPhan Tu lon nhat cua tung cot trong mang la: ");
-			xuatPhanTuMAXCot(a, n, m);
-			break;
-		case 4:
-			xuatDuongvien(a, n, m);
-			break;
-
-		case 5:
-			printf("\nDong toan phan tu chan trong mang la: ");
-			xuatDongChiChuaSoChan(a, n, m);
-			break;
-
-		case 6:
-			printf("\n Phan Tu Tang dan theo dong:");
-			sapXepPhanTuTangDan(a, n, m);
-			XuatMaTran2chieu(a, n, m);
-			break;
-		default:
-			break;
-		}
-	}
-}
+//void main() {
+//	menu();
+//	int n=0;
+//	int m=0;
+//	int a[100][100];
+//	int luachon;
+//	while (1)
+//	{
+//		printf("\nNhap Lua chon ban muon su dung:");
+//		scanf_s("%d", &luachon);
+//		switch (luachon)
+//		{
+//		case 1:
+//			printf("\nNhap so dong muon tao:");
+//			scanf_s("%d", &n);
+//			printf("\nnhap so hang muon tao:");
+//			scanf_s("%d", &m);
+//			TaoMaTran2Chieu(a, n, m);
+//			XuatMaTran2chieu(a, n, m);
+//			break;
+//		case 2:
+//			printf("\nTong cua tung dong trong mang la: ");
+//			xuatTongTungDong(a, n, m);
+//			break;
+//		case 3:
+//			printf("\nPhan Tu lon nhat cua tung cot trong mang la: ");
+//			xuatPhanTuMAXCot(a, n, m);
+//			break;
+//		case 4:
+//			xuatDuongvien(a, n, m);
+//			break;
+//
+//		case 5:
+//			printf("\nDong toan phan tu chan trong mang la: ");
+//			xuatDongChiChuaSoChan(a, n, m);
+//			break;
+//
+//		case 6:
+//			printf("\n Phan Tu Tang dan theo dong:");
+//			sapXepPhanTuTangDan(a, n, m);
+//			XuatMaTran2chieu(a, n, m);
+//			break;
+//		default:
+//			break;
+//		}
+//	}
+//}
