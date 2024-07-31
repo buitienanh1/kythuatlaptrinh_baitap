@@ -6,7 +6,7 @@ int TongNTrenN(int a) {
 	}
 	return a/a+1 + TongNTrenN(a - 1);
 }
-void main() {
-	int a = 10;
-	printf("tong tu 1/2 den n/n+1 la: %d", TongNTrenN(a));
-}
+//void main() {
+//	int a = 10;
+//	printf("tong tu 1/2 den n/n+1 la: %d", TongNTrenN(a));
+//}
