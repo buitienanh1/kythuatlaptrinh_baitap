@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|solutionrelative:BT_TUAN4\\Bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|solutionrelative:BT_TUAN4\\Bai1_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|solutionrelative:BT_TUAN4\\Bai1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E9A125DE-9712-4243-86DD-E2949E07B680}|BT_TUAN4\\BT_TUAN4.vcxproj|solutionrelative:BT_TUAN4\\Bai1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bai1_5.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_5.cpp",
               "RelativeDocumentMoniker": "BT_TUAN4\\Bai1_5.cpp",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai1_4.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_4.cpp",
               "RelativeDocumentMoniker": "BT_TUAN4\\Bai1_4.cpp",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "BT_TUAN4\\Bai1_4.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-31T09:56:01.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:56:01.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Bai1_1.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_1.cpp",
               "RelativeDocumentMoniker": "BT_TUAN4\\Bai1_1.cpp",
@@ -68,11 +67,12 @@
               "RelativeToolTip": "BT_TUAN4\\Bai1_1.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-31T09:47:50.001Z"
+              "WhenOpened": "2024-07-31T09:47:50.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai1_3.cpp",
               "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan4\\BT_TUAN4\\BT_TUAN4\\Bai1_3.cpp",
               "RelativeDocumentMoniker": "BT_TUAN4\\Bai1_3.cpp",
@@ -80,8 +80,7 @@
               "RelativeToolTip": "BT_TUAN4\\Bai1_3.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-31T09:50:20.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:50:20.618Z"
             }
           ]
         }
