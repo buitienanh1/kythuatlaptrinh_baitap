@@ -6,7 +6,7 @@ int TongNnhanN(int a) {
 	}
 	return a * (a + 1) + TongNnhanN(a - 1);
 }
-void main() {
-	int a = 10;
-	printf("tong tu 1*2 den n*n+1 la: %d", TongNnhanN(a));
-}
+//void main() {
+//	int a = 10;
+//	printf("tong tu 1*2 den n*n+1 la: %d", TongNnhanN(a));
+//}
