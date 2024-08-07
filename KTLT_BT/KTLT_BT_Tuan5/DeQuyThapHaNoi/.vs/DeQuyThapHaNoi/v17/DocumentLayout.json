@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181B7378-DCE7-4CF8-946D-FB066DAF3D74}|DeQuyThapHaNoi\\DeQuyThapHaNoi.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\BaiChuoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181B7378-DCE7-4CF8-946D-FB066DAF3D74}|DeQuyThapHaNoi\\DeQuyThapHaNoi.vcxproj|solutionrelative:DeQuyThapHaNoi\\BaiChuoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181B7378-DCE7-4CF8-946D-FB066DAF3D74}|DeQuyThapHaNoi\\DeQuyThapHaNoi.vcxproj|D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\Bai1Dequy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181B7378-DCE7-4CF8-946D-FB066DAF3D74}|DeQuyThapHaNoi\\DeQuyThapHaNoi.vcxproj|solutionrelative:DeQuyThapHaNoi\\Bai1Dequy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiChuoi.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\BaiChuoi.cpp",
+              "RelativeDocumentMoniker": "DeQuyThapHaNoi\\BaiChuoi.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\BaiChuoi.cpp",
+              "RelativeToolTip": "DeQuyThapHaNoi\\BaiChuoi.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T06:02:54.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1Dequy.cpp",
+              "DocumentMoniker": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\Bai1Dequy.cpp",
+              "RelativeDocumentMoniker": "DeQuyThapHaNoi\\Bai1Dequy.cpp",
+              "ToolTip": "D:\\ondrive\\OneDrive - MSFT\\Documents\\GitHub\\kythuatlaptrinh_baitap\\KTLT_BT\\KTLT_BT_Tuan5\\DeQuyThapHaNoi\\DeQuyThapHaNoi\\Bai1Dequy.cpp",
+              "RelativeToolTip": "DeQuyThapHaNoi\\Bai1Dequy.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T05:55:41.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
