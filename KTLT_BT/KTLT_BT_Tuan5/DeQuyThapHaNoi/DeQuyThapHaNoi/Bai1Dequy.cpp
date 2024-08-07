@@ -19,12 +19,12 @@ void Tower(int n, char colA, char colB, char colC) {
         Tower(n - 1, colB, colA, colC);
     }
 }
-//void main() {
-//    int n;
-//
-//    printf("Nhap so luong dia: ");
-//    scanf_s("%d", &n); // Nhập số lượng đĩa
-//
-//    printf("Cac buoc di chuyen:\n");
-//    Tower(n, 'A', 'B', 'C'); // Gọi hàm Tower với 3 cột A, B, C
-//}
+void main() {
+    int n;
+
+    printf("Nhap so luong dia: ");
+    scanf_s("%d", &n); // Nhập số lượng đĩa
+
+    printf("Cac buoc di chuyen:\n");
+    Tower(n, 'A', 'B', 'C'); // Gọi hàm Tower với 3 cột A, B, C
+}
